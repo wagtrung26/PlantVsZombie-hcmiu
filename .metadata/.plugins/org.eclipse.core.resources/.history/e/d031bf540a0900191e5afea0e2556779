@@ -1,0 +1,17 @@
+
+public class Plant {
+	public int health = 300;
+	public Game game;
+	public int x;
+	public int y;
+	
+	public Plant(Game gp, int x, int y){
+		this.x = x;
+		this.y = y;
+		game = gp;
+	}
+	
+	public void stop(){
+		
+	}
+}

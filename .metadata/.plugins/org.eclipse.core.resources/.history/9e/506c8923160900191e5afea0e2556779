@@ -1,0 +1,8 @@
+
+public class FreePeashooter extends Plant{
+
+	public FreePeashooter(Game gp, int x, int y) {
+		super(gp, x, y);
+	}
+
+}
