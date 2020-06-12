@@ -20,8 +20,10 @@ This game Plants vs Zombies has been  developed by WagTrung, Hoang Tu, Anh Quan 
   
 ## GamePlay Screen
   <div style=" display=flex, width=100%">
- <div style=" style="width:50%;" > <img src="https://www.upsieutoc.com/images/2020/06/12/Screenshot-859.png" ></div>
-<div style=" style="width:50%;" ><img src="https://www.upsieutoc.com/images/2020/06/12/Screenshot-860.png" ></div>
+  
+ <div style="style="width=50%;"><img src="https://www.upsieutoc.com/images/2020/06/12/Screenshot-859.png"></div>
+  
+<div style="style="width=50%;"><img src="https://www.upsieutoc.com/images/2020/06/12/Screenshot-860.png"></div>
 
   <div>
     
