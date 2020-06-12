@@ -4,7 +4,7 @@
 This game Plants vs Zombies has been  developed by WagTrung, Hoang Tu, Anh Quan during the course "Object-Oriented Programming " 
 <br> functions: Handle events by Cursor
 <br> Redesign the Welcome Board, and Character Skins
-<br> Define Classes & Relationship of 
+<br> Define Classes Zombie, Sun, SunFlower, Card, Game,...
 <br>
 <br>
 
@@ -17,6 +17,7 @@ This game Plants vs Zombies has been  developed by WagTrung, Hoang Tu, Anh Quan 
 
 
 ## Installation
+Download the full file documment --> then RUN the file <b>k.jar </b>
 
 
 
