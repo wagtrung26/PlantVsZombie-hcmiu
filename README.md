@@ -8,15 +8,21 @@ This game Plants vs Zombies has been  developed by WagTrung, Hoang Tu, Anh Quan 
 <br>
 <br>
 
-## Welcome GamePlay Screen
+## Welcome Screen
 <img src="https://www.upsieutoc.com/images/2020/06/12/intro.gif"  style="max-width:100%;">
 
+## Redesign Characters (.gif) by Photoshop, AfterEffect
 <div style=" display=flex">
 <img src="https://www.upsieutoc.com/images/2020/06/12/sun-nh.gif"  style="max-width:100%;">
 <img src="https://www.upsieutoc.com/images/2020/06/12/tim-nh.gif"  style="max-width:100%;">
 <img src="https://www.upsieutoc.com/images/2020/06/12/xanh-nh.gif"  style="max-width:100%;">
 <div>
-
+  
+## GamePlay Screen
+  <div style=" display=flex">
+<img src="https://www.upsieutoc.com/image/fO5B0C"  style="max-width:50%;">
+<img src="https://www.upsieutoc.com/image/fO5J3w"  style="max-width:50%;">
+<div>
 ## Installation
 Download the full file documment --> then RUN the file <b>k.jar </b>
 
